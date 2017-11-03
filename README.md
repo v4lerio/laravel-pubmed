@@ -7,11 +7,11 @@ Getting started
 
 The recommended way to install PubMed is through [Composer](http://getcomposer.org).
 
-1. Add ``tmpjr/pubmed`` as a dependency in your project's ``composer.json`` file:
+1. Add ``v4lerio/pubmed`` as a dependency in your project's ``composer.json`` file:
 
         {
             "require": {
-                "tmpjr/pubmed": "dev-master"
+                "v4lerio/pubmed": "dev-master"
             }
         }
 
