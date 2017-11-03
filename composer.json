@@ -1,5 +1,5 @@
 {
-    "name": "v4lerio/pubmed",
+    "name": "v4lerio/laravel-pubmed",
     "type": "library",
     "description": "Wrapper API for the NCBI PubMed EFetch Utilities developed at Ambry Genetics and made public for use by the community.",
     "keywords": ["ncbi","pubmed","wrapper","api"],
